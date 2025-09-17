@@ -19,6 +19,13 @@
 */}}
 
 
+
+
+  {{ .Content }}
+
+
+
+
 <section>
   {{ partial "recent-articles-demo.html" . }}
 </section>
@@ -27,3 +34,4 @@
   type="text/javascript"
   src="{{ $jsHome.RelPermalink }}"
   integrity="{{ $jsHome.Data.Integrity }}"></script>
+
