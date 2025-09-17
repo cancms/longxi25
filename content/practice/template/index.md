@@ -8,6 +8,7 @@ tags: ["template"]
 
 Thank you for wanting to contribute to Blowfish's community.
 
+<!--more-->
 ## How to start?
 This is a template article that will explain how to create a new article for Blowfish's guide section.
 

@@ -1,5 +1,5 @@
 ---
-title: "Recipe Template"
+title: "Recipe Template2"
 date: 1987-12-22
 draft: false
 description: "Template for creating a recipe for Blowfish theme"
@@ -8,6 +8,7 @@ tags: ["template"]
 
 Thank you for wanting to contribute to Blowfish's community.
 
+<!--more-->
 ## How to start?
 This is a template article that will explain how to create a new article for Blowfish's guide section.
 
